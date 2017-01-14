@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 add(findViewById(R.id.bt_3));
                 add(findViewById(R.id.bt_4));
                 add(findViewById(R.id.bt_5));
-                add(findViewById(R.id.bt_6));
+                add(findViewById(R.id.bt_6)); 
                 add(findViewById(R.id.bt_7));
                 add(findViewById(R.id.bt_8));
                 add(findViewById(R.id.bt_9));
